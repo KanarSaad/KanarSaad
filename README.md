@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kanar Saad</h1>
 <h3 align="center">Junior Devops And Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanarsaad&label=Profile%20views&color=0e75b6&style=flat" alt="kanarsaad" /> </p>
-
 - 📫 How to reach me **kanarsaad20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
